@@ -1,0 +1,24 @@
+*{
+  background-color:#2245;
+  margin: auto;
+}
+.inp,h1{
+  text-align: center;
+  background-color: aliceblue;
+  background-color: antiquewhite;
+  border-radius: 50%;
+  padding: 10px;
+}
+.container{
+  padding: 40px;
+  color:wheat;
+}
+.ftr{
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  color: black;
+}
+button{
+  background-color: darkcyan;
+}
